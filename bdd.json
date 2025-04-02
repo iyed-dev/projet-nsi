@@ -1,0 +1,161 @@
+{
+  "menu": [
+    {
+      "category": "Entrées",
+      "items": [
+        {
+          "name": "Salade César",
+          "description": "Laitue romaine, croûtons, parmesan, sauce César maison.",
+          "price": 8.50,
+          "options": [
+            {
+              "name": "Ajouter du poulet",
+              "extraPrice": 2.50
+            }
+          ]
+        },
+        {
+          "name": "Soupe du jour",
+          "description": "Préparée quotidiennement avec des ingrédients frais.",
+          "price": 6.00,
+          "options": []
+        },
+        {
+          "name": "Bruschetta",
+          "description": "Pain grillé, tomates, basilic, huile d'olive.",
+          "price": 7.00,
+          "options": []
+        }
+      ]
+    },
+    {
+      "category": "Plats principaux",
+      "items": [
+        {
+          "name": "Steak frites",
+          "description": "Entrecôte grillée servie avec des frites maison et une sauce au choix.",
+          "price": 18.00,
+          "options": [
+            {
+              "name": "Sauce au poivre",
+              "extraPrice": 1.50
+            },
+            {
+              "name": "Sauce béarnaise",
+              "extraPrice": 1.50
+            }
+          ]
+        },
+        {
+          "name": "Pâtes carbonara",
+          "description": "Spaghetti, lardons, crème, jaune d'œuf, parmesan.",
+          "price": 12.00,
+          "options": []
+        },
+        {
+          "name": "Poulet rôti",
+          "description": "Poulet rôti accompagné de légumes de saison.",
+          "price": 14.50,
+          "options": []
+        },
+        {
+          "name": "Lasagnes végétariennes",
+          "description": "Lasagnes aux légumes de saison et béchamel.",
+          "price": 13.00,
+          "options": []
+        }
+      ]
+    },
+    {
+      "category": "Desserts",
+      "items": [
+        {
+          "name": "Tiramisu",
+          "description": "Dessert italien classique au café et mascarpone.",
+          "price": 6.50,
+          "options": []
+        },
+        {
+          "name": "Moelleux au chocolat",
+          "description": "Servi avec une boule de glace vanille.",
+          "price": 7.00,
+          "options": [
+            {
+              "name": "Double boule de glace",
+              "extraPrice": 1.50
+            }
+          ]
+        },
+        {
+          "name": "Crème brûlée",
+          "description": "Crème au parfum de vanille, caramélisée sur le dessus.",
+          "price": 6.00,
+          "options": []
+        },
+        {
+          "name": "Sorbet maison",
+          "description": "Sorbet aux fruits frais de saison.",
+          "price": 5.00,
+          "options": []
+        }
+      ]
+    },
+    {
+      "category": "Boissons",
+      "items": [
+        {
+          "name": "Coca-Cola",
+          "description": "33cl",
+          "price": 3.00,
+          "options": []
+        },
+        {
+          "name": "Eau minérale",
+          "description": "50cl",
+          "price": 2.50,
+          "options": [
+            {
+              "name": "Gazeuse",
+              "extraPrice": 0.50
+            }
+          ]
+        },
+        {
+          "name": "Jus d'orange",
+          "description": "100% pur jus, sans sucre ajouté.",
+          "price": 4.00,
+          "options": []
+        },
+        {
+          "name": "Vin rouge",
+          "description": "Verre de vin rouge, cépage local.",
+          "price": 5.50,
+          "options": []
+        },
+        {
+          "name": "Café",
+          "description": "Café espresso, classique et intense.",
+          "price": 2.00,
+          "options": []
+        }
+      ]
+    },
+    {
+      "category": "Plats végétariens",
+      "items": [
+        {
+          "name": "Burger végétarien",
+          "description": "Pain complet, galette de légumes, fromage, sauce maison.",
+          "price": 10.50,
+          "options": []
+        },
+        {
+          "name": "Riz sauté aux légumes",
+          "description": "Riz basmati sauté avec des légumes de saison.",
+          "price": 11.00,
+          "options": []
+        }
+      ]
+    }
+  ]
+}
