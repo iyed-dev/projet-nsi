@@ -41,7 +41,7 @@ Ce projet est une **application de gestion de commandes** pour un restaurant, d�
 
 ## 📌 Auteurs
 
-Projet réalisé dans le cadre du cours de **NSI**.
+Projet réalisé dans le cadre du cours de **NSI** par Iyed A.
 
 ---
 
